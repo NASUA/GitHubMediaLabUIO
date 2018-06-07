@@ -1,9 +1,9 @@
-## Propuesta de taller:
-____
 
 # GitHub como herramienta de colaboración global en ciencia. 
 
 ____
+
+A pesar de estar pensada como una plataforma para el desarrollo colaborativo de software. El uso de GitHub en ciencia sigue incrementando su popularidad. GitHub facilita de sobremanera el trabajar conjuntamente, de manera remota en un mismo proyecto. Ademas GitHub facilita la creación, almacenamiento y difusión del proyecto. Todo bajo la filosofía de Ciencia Abierta.   
 
 ## Facilitador del taller
 
@@ -61,6 +61,13 @@ El tiempo restante se lo utilizara para preguntas y atención personalizada.
 
 10USD por asistente 
 
+## Fechas tentativas 
+
+1 o 2 semana de Julio. 
+
+### Contactos: 
+
+Gabriel Muñoz: fgabriel1891@gmail.com
 
 
 
