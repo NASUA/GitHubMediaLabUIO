@@ -1,6 +1,7 @@
 
 # GitHub como herramienta de colaboración global en ciencia. 
 
+## Sigue la charla [aquí](https://bookdown.org/fgabriel1891/GitHubScience/)
 ____
 
 A pesar de estar pensada como una plataforma para el desarrollo colaborativo de software. El uso de GitHub en ciencia sigue incrementando su popularidad. GitHub facilita de sobremanera el trabajar conjuntamente, de manera remota en un mismo proyecto. Ademas GitHub facilita la creación, almacenamiento y difusión del proyecto. Todo bajo la filosofía de Ciencia Abierta.   
