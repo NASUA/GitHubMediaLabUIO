@@ -54,13 +54,6 @@ El tiempo restante se lo utilizara para preguntas y atención personalizada.
 
 - Cada participante necesita tener un computador con conexión a internet. 
 
-- Pantalla o proyector con entrada HDMI 
-
-- Extensiones de corriente 
-
-## Costo propuesto 
-
-10USD por asistente 
 
 ### Contactos: 
 
